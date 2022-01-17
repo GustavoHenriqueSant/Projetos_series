@@ -2,19 +2,21 @@ using Projeto_Series.Enum;
 
 namespace Projeto_Series.Classes
 {
-    public class Serie : Membro_Catalogo
+    public class Anime : Membro_Catalogo
     {
-        public int numero_episodios { get; set; }
-        public int numero_temporadas { get; set; }
+        public Tipologia_Anime Tipologia { get; set; }
+        public int Numero_episodios { get; set; }
+        public int Numero_temporadas { get; set; }
 
-        public Serie(int id, Genero genero, string descricao, int ano, int n_ep, int n_temp){
+        public Anime(int id, Genero genero, string descricao, int ano, Tipologia_Anime tipo, int n_ep, int n_temp){
             this.id = id;
             this.genero = genero;
             this.Descricao = descricao;
             this.Ano = ano;
             this.Excluido = false;
-            this.numero_episodios = n_ep;
-            this.numero_temporadas = n_temp;
+            this.Tipologia = tipo;
+            this.Numero_episodios = n_ep;
+            this.Numero_temporadas = n_temp;
         }
 
         public override string ToString()
@@ -25,8 +27,9 @@ namespace Projeto_Series.Classes
             result += "Descrição: " + this.Descricao + "\n";
             result += "Ano de lançamento: " + this.Ano + "\n";
             result += "Excluído: " + this.Excluido + "\n";
-            result += "Número de episódios: " + this.numero_episodios + "\n";
-            result += "Número de temporadas: " + this.numero_temporadas;
+            result += "Tipologia do anime: " + this.Tipologia + "\n";
+            result += "Número de episódios: " + this.Numero_episodios + "\n";
+            result += "Número de temporadas: " + this.Numero_temporadas;
 
             return result;
         }
