@@ -1,0 +1,16 @@
+C:\Users\Gustavo\workSpace\Projeto_Series\bin\Debug\net5.0\Projeto_Series.exe
+C:\Users\Gustavo\workSpace\Projeto_Series\bin\Debug\net5.0\Projeto_Series.deps.json
+C:\Users\Gustavo\workSpace\Projeto_Series\bin\Debug\net5.0\Projeto_Series.runtimeconfig.json
+C:\Users\Gustavo\workSpace\Projeto_Series\bin\Debug\net5.0\Projeto_Series.runtimeconfig.dev.json
+C:\Users\Gustavo\workSpace\Projeto_Series\bin\Debug\net5.0\Projeto_Series.dll
+C:\Users\Gustavo\workSpace\Projeto_Series\bin\Debug\net5.0\ref\Projeto_Series.dll
+C:\Users\Gustavo\workSpace\Projeto_Series\bin\Debug\net5.0\Projeto_Series.pdb
+C:\Users\Gustavo\workSpace\Projeto_Series\obj\Debug\net5.0\Projeto_Series.csproj.AssemblyReference.cache
+C:\Users\Gustavo\workSpace\Projeto_Series\obj\Debug\net5.0\Projeto_Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\workSpace\Projeto_Series\obj\Debug\net5.0\Projeto_Series.AssemblyInfoInputs.cache
+C:\Users\Gustavo\workSpace\Projeto_Series\obj\Debug\net5.0\Projeto_Series.AssemblyInfo.cs
+C:\Users\Gustavo\workSpace\Projeto_Series\obj\Debug\net5.0\Projeto_Series.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\workSpace\Projeto_Series\obj\Debug\net5.0\Projeto_Series.dll
+C:\Users\Gustavo\workSpace\Projeto_Series\obj\Debug\net5.0\ref\Projeto_Series.dll
+C:\Users\Gustavo\workSpace\Projeto_Series\obj\Debug\net5.0\Projeto_Series.pdb
+C:\Users\Gustavo\workSpace\Projeto_Series\obj\Debug\net5.0\Projeto_Series.genruntimeconfig.cache
