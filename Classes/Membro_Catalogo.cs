@@ -11,6 +11,12 @@ namespace Projeto_Series.Classes
 		public int Ano { get; protected set; }
         public bool Excluido {get; protected set;}
 
+        public void exclusao(){
+            this.Excluido = true;
+        }
 
+        public void set_ID(int id){
+            this.id = id;
+        }
     }
 }
